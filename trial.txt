@@ -1,2 +1,2 @@
-Hello this is the first version
+Trial 2: remove first line and add new line
 I have no added the new line to this code
